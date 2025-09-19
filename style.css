@@ -1,0 +1,87 @@
+/* 
+.container{
+    border: 5px solid;
+    display: flex;
+    height: 500px;
+    gap: 10px;
+     /* justify-content: center; */
+    /* justify-content: start; */
+    /* justify-content: end; */
+    /* justify-content: space-around; */
+    /* justify-content: space-between; */
+    /* justify-content: space-evenly;  */
+    /* evanni x-axis*/ 
+
+     /* align-items: center; */
+    /* align-items: stretch; */
+    /* align-items: end; */
+    /* align-items: start; */
+    /* evanni properties y-axis related */ 
+/*     
+}
+.item{
+    padding: 5px;
+}
+.item-1{
+    background-color: lightblue;
+}
+.item-2{
+    background-color: bisque;
+}
+.item-3{
+    background-color: gray;
+}
+.item-4{
+    background-color: aquamarine;
+}
+.item-5{
+    background-color: rgb(0, 145, 255);
+} */ 
+
+
+
+.Navbar-1{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 15px;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 16px;
+    
+    background-color: black;
+    color: white;
+    flex-wrap: wrap;
+
+}
+
+.Navbar-2{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 15px;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 16px;
+    flex-wrap: wrap;
+    background-color: black;
+    color: white;
+
+}
+
+.Navbar-3{
+    display: flex;
+    height: 25px;
+    justify-content:space-evenly;
+    align-items: center;
+    gap: 15px;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: -5px;
+    flex-wrap: wrap;
+    background-color: black;
+    color: white;
+}
+
+
